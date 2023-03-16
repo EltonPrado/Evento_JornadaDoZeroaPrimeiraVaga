@@ -4,9 +4,7 @@
 
 Os projetos foram desenvolvidos durante o evento Jornada do zero à primeira vaga promovido pela Rocketseat para ensino de tecnologias WEB. 
 
-O desafio foi a criação de duas landing pages. A primeira landing page se trata de um jogo de terror e a segunda landing page de uma empresa de alimentos.
-
-OBS: Os dois projetos são ficticios. 
+O desafio foi a criação de uma landing page que recria a página principal de um jogo de terror fictício.
 
 <br>
 
@@ -16,9 +14,9 @@ OBS: Os dois projetos são ficticios.
 
 <br>
 
-Quer conferir como ficaram essas landing pages? 
+Quer conferir como ficou essa landing page? 
 
-- [Visite a página online](https://eltonprado.github.io/BoraCodar_Desafio08_Dashboard/)
+- [Visite a página online](https://eltonprado.github.io/Evento_JornadaDoZeroaPrimeiraVaga/)
 
 <br>
 
