@@ -1,4 +1,4 @@
-<h1> Horro Game </h1>
+<h1> Horror Game </h1>
 
 <h2> Os Projetos </h2>
 
