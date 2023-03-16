@@ -1,0 +1,109 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+:root {
+  font-size: 62.5%;
+
+  --ff-primary: 'Emilys Candy', cursive;
+  --ff-secundary: 'Inter', sans-serif;
+
+  --fc-primary: #FFC700;
+  --fc-secundary: #ffffff;
+  --fc-terciary: rgba(255, 255, 255, 0.7);
+}
+
+body {
+  text-align: center;
+  font-family: var(--ff-secundary);
+  font-size: 1.6rem;
+
+  background-image: url(./assets/background-image.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  
+  height: 100vh;
+}
+
+main {
+  padding-top: 16rem;
+}
+
+.headline h3 {
+  font-size: 1.6rem;
+  line-height: 1.9rem;
+  text-align: center;
+
+  color: var(--fc-terciary);
+}
+
+.headline span {
+  color: var(--fc-primary);
+}
+
+.headline h1 {
+  font-family: var(--ff-primary);
+  font-weight: 400;
+  font-size: 6.4rem;
+  line-height: 8rem;
+
+  color: var(--fc-primary);
+}
+
+.headline p {
+  font-weight: 400;
+  font-size: 2rem;
+  line-height: 2.4rem;
+
+  color: var(--fc-terciary);
+}
+
+.links {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1.6rem;
+
+  margin-top: 7.2rem;
+}
+
+.links a {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: center;
+  text-decoration-line: underline;
+
+  color: var(--fc-terciary);
+}
+
+.links a,
+.links button {
+  padding: 1.2rem 3.2rem;
+  gap: .8rem;
+}
+
+.links button {
+  border: none;
+  background-color: var(--fc-primary);
+}
+
+button {
+  font-weight: 700;
+  font-size: 2rem;
+  line-height: 2.4rem;
+  cursor: pointer;
+
+  color: #040101;
+  text-decoration: none;
+}
+
+button:hover {
+  background-color: #9c7d0a;
+}
